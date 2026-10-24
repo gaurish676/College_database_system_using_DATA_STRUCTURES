@@ -1,0 +1,16 @@
+# Compiled binaries & object files
+college_erp
+test_runner
+*.o
+*.out
+*.exe
+
+# Runtime database files
+data/*.dat
+!data/.gitkeep
+
+# Operating system & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
